@@ -13,3 +13,5 @@ The transfer cases are interchangeable, but the transfer case control module (TC
 
 This repository is a collection of docs, hints and schematics to do the job easily.
 
+See the [Wiki](https://github.com/zolalmasi/Kia-Sorento-BL-TOD-to-EST-conversion/wiki)
+
